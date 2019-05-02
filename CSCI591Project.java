@@ -1,3 +1,8 @@
+// This program depends upon a number of java files from JTS (Java Topology Suite), including:
+// QuadEdge.java, Vertex.java, Coordinate.java, DD.java, HCoordinate.java, NonRepresentableException.java,
+// NumberUtil.java, ShewchuksDeterminant.java, and TriPredicate.java. A few lines of code in the these files
+// were commented out to allow for them to run without even more files.
+
 package notSurePackage;
 
 import java.util.Random;
